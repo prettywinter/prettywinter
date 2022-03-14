@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prettywinter&show_icons=true&theme=radical)
 
 <!-- 热门语言卡片 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettywinter&layout=compact)](https://github.com/prettywinter/prettywinter-docs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettywinter&layout=compact)](https://github.com/prettywinter/prettywinter)
 
 <!-- GitHub更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prettywinter&repo=prettywinter-docs)](https://github.com/prettywinter/prettywinter-docs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prettywinter&repo=dist)](https://github.com/prettywinter/dist)
